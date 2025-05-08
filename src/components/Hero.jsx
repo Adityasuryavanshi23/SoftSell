@@ -19,7 +19,7 @@ export const Hero = ({ handleScroll, setDarkMode, DarkMode }) => {
           SoftSell helps you quickly sell unused or extra software licenses. Get
           a fair valuation and get paid fast — all in a few simple steps.
         </p>
-        <div className="flex justify-between items-center mt-12">
+        <div className="flex justify-between items-center mt-8">
           <button
             onClick={handleScroll}
             type="button"
