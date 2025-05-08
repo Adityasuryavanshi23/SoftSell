@@ -28,7 +28,7 @@ export const TestiMonials = () => {
           <div className="border px-3 py-2 rounded-lg shadow-xl border-black/20 dark:border-white/20 dark:bg-slate-900/50 ">
             <div
               data-aos="zoom-in"
-              data-aos-delay={index * 100}
+              data-aos-delay={index * 150}
               data-aos-duration="500"
               data-aos-easing="ease-out-cubic"
               data-aos-anchor-placement="top-bottom"
