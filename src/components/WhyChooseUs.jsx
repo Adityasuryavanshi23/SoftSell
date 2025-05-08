@@ -44,8 +44,8 @@ export const WhyChooseUs = ({ DarkMode }) => {
               <div
                 key={index}
                 data-aos={direction}
-                data-aos-delay={index * 100}
-                data-aos-duration="500"
+                data-aos-delay={index * 200}
+                data-aos-duration="700"
                 data-aos-easing="ease-out-cubic"
                 data-aos-anchor-placement="top-bottom"
                 className="flex items-center gap-3  shadow-xl  dark:bg-slate-900/50 py-6 px-4 rounded-lg border border-black/20 dark:border-white/20"

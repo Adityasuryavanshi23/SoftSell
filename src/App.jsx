@@ -28,6 +28,7 @@ function App() {
       easing: "ease-in-out",
       once: false,
     });
+    Aos.refresh();
   }, []);
 
   const contactRef = useRef(null);
