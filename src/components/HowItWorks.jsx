@@ -7,7 +7,7 @@ import upload from "../assets/light icons/upload.png";
 export const HowItWorks = ({ DarkMode }) => {
   return (
     <>
-      <section className="mt-12">
+      <section className="mt-16">
         <h1 className="text-center mb-4 uppercase text-2xl font-semibold font-montserrat max-[415px]:text-xl">
           how it Works
         </h1>
