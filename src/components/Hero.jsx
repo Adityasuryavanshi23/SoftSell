@@ -12,10 +12,10 @@ export const Hero = ({ handleScroll, setDarkMode, DarkMode }) => {
           </h1>
         </div>
 
-        <h1 className="font-montserrat font-semibold text-4xl mt-[-30px] max-[521px]:text-2xl max-[521px]:text-center max-[415px]:text-center max-[390px]:text-xl   max-[390px]:text-center">
+        <h1 className="font-montserrat font-semibold text-4xl mt-[-30px] max-[521px]:text-2xl max-[521px]:text-center max-[415px]:text-center max-[390px]:text-xl dark:text-cyan-300   max-[390px]:text-center">
           Sell Your Unused Software Licenses for Instant cash
         </h1>
-        <p className="font-poppins text-center fonr-semibold text-xl mt-4 max-w-screen-md  max-[420px]:text-sm   max-[390px]:text-sm   max-[415px]:text-center">
+        <p className="font-poppins text-center fonr-semibold text-xl mt-4 max-w-screen-md  max-[420px]:text-sm   max-[390px]:text-sm   max-[415px]:text-center ">
           SoftSell helps you quickly sell unused or extra software licenses. Get
           a fair valuation and get paid fast — all in a few simple steps.
         </p>

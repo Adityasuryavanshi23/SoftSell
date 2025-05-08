@@ -34,7 +34,7 @@ export const WhyChooseUs = ({ DarkMode }) => {
   return (
     <section className="max-w-screen-sm mx-auto mt-16 ">
       <div className="mt-8 ">
-        <h1 className="text-center mb-4 uppercase text-2xl font-semibold font-montserrat max-[415px]:text-xl">
+        <h1 className="text-center dark:text-cyan-400 mb-4 uppercase text-2xl font-semibold font-montserrat max-[415px]:text-xl">
           why choose us
         </h1>
         <div className="grid grid-cols-2 max-[415px]:grid-cols-1 max-[415px]:px-4 gap-4">

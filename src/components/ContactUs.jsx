@@ -16,7 +16,7 @@ export const ContactUs = () => {
   };
   return (
     <section className="mt-12 overflow-hidden max-[415px]:px-6">
-      <h1 className="text-center mb-4  uppercase text-2xl max-[415px]:text-xl font-semibold font-montserrat">
+      <h1 className="text-center mb-4 dark:text-cyan-400  uppercase text-2xl max-[415px]:text-xl font-semibold font-montserrat">
         contact us
       </h1>
 

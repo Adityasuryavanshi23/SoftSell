@@ -8,7 +8,7 @@ export const HowItWorks = ({ DarkMode }) => {
   return (
     <>
       <section className="mt-14">
-        <h1 className="text-center mb-4 uppercase text-2xl font-semibold font-montserrat max-[415px]:text-xl">
+        <h1 className="text-center  dark:text-cyan-400 mb-4 uppercase text-2xl font-semibold font-montserrat max-[415px]:text-xl">
           how it Works
         </h1>
         <div className="max-w-screen-sm mx-auto flex justify-around ">

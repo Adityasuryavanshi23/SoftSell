@@ -20,7 +20,7 @@ export const TestiMonials = () => {
   ];
   return (
     <section className="mt-16">
-      <h1 className="text-center mb-4 uppercase text-2xl max-[415px]:text-xl font-semibold font-montserrat">
+      <h1 className="text-center dark:text-cyan-400 mb-4 uppercase text-2xl max-[415px]:text-xl font-semibold font-montserrat">
         customer testimonials
       </h1>
       <div className="max-w-screen-sm mx-auto flex flex-col max-[415px]:px-6 gap-4">
