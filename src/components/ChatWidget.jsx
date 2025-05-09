@@ -39,7 +39,7 @@ export const ChatWidget = () => {
   };
 
   return (
-    <div className="fixed bottom-32 right-4 max-w-[400px] p-4 z-40 border border-white/20  bg-slate-900 dark:bg-slate-950/50 rounded-lg shadow-lg">
+    <div className="fixed bottom-32 right-4 max-w-[400px] p-4 z-40 border border-white/20  bg-slate-900 dark:bg-slate-950 rounded-lg shadow-lg">
       <div className="flex justify-between items-center mb-2">
         <p className="b-3 text-lg font-semibold text-white dark:text-white">
           Chat with Bot

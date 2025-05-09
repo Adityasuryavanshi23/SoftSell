@@ -58,7 +58,7 @@ function App() {
 
       <button
         onClick={() => setopenbot(!openbot)}
-        className="fixed right-12 max-[415px]:right-0  bottom-4 max-[415px]:bottom-12 "
+        className="fixed md:right-12 max-md:right-10 first-letter:max-[415px]:right-0  bottom-4 max-[415px]:bottom-12  "
       >
         <img
           src={chatbot}
